@@ -1,3 +1,5 @@
+![Cover](public/cover.png)
+
 # Vite React Boilerplate
 
 ![](/public/vite-react-boilerplate.png)
